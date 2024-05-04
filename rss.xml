@@ -6,8 +6,60 @@
     <atom:link href="https://ai.ittools.cc/rss.xml" rel="self" type="application/rss+xml"/>
     <description/>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Sat, 04 May 2024 20:40:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:03:29 +0800</lastBuildDate>
     <language>en-us</language>
+    <item>
+      <title>AI Writing Tutor</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714827660223.html</link>
+      <description>
+        <![CDATA[<p>`I want you to act as an AI writing tutor. I will provide you with a student who needs help improving their writing</p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714827660223.html</guid>
+      <category>writing</category>
+      <category>example</category>
+      <category>chatgpt</category>
+      <pubDate>Sat, 04 May 2024 21:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>JavaScript Console</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714826886020.html</link>
+      <description>
+        <![CDATA[<p>I want you to act as a javascript console. I will type commands and you will reply with what</p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714826886020.html</guid>
+      <category>example</category>
+      <category>chatgpt</category>
+      <pubDate>Sat, 04 May 2024 20:59:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>English Pronunciation Helper</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714827521487.html</link>
+      <description>
+        <![CDATA[<p>I want you to act as an English pronunciation assistant for Turkish speaking people.</p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714827521487.html</guid>
+      <category>chatgpt</category>
+      <category>English</category>
+      <category>example</category>
+      <category>Prompt</category>
+      <pubDate>Sat, 04 May 2024 20:58:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>Excel Sheet</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714827420816.html</link>
+      <description>
+        <![CDATA[<p>I want you to act as a text based excel. you'll only reply me the</p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714827420816.html</guid>
+      <category>Prompt</category>
+      <category>chatgpt</category>
+      <category>example</category>
+      <pubDate>Sat, 04 May 2024 20:57:00 +0800</pubDate>
+    </item>
     <item>
       <title>`position` Interviewer</title>
       <link>https://ai.ittools.cc/articles/2024/05/04/1714826298852.html</link>
@@ -16,8 +68,8 @@
       </description>
       <author>1810857626</author>
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714826298852.html</guid>
-      <category>chatgpt</category>
       <category>example</category>
+      <category>chatgpt</category>
       <category>Prompt</category>
       <pubDate>Sat, 04 May 2024 20:38:53 +0800</pubDate>
     </item>
@@ -29,10 +81,10 @@
       </description>
       <author>1810857626</author>
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714826057175.html</guid>
-      <category>Prompt</category>
       <category>example</category>
-      <category>chatgpt</category>
       <category>English</category>
+      <category>Prompt</category>
+      <category>chatgpt</category>
       <pubDate>Sat, 04 May 2024 20:36:13 +0800</pubDate>
     </item>
     <item>
@@ -43,10 +95,10 @@
       </description>
       <author>1810857626</author>
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714813142414.html</guid>
-      <category>LinuxTerminal</category>
-      <category>example</category>
       <category>Prompt</category>
+      <category>LinuxTerminal</category>
       <category>chatgpt</category>
+      <category>example</category>
       <pubDate>Sat, 04 May 2024 20:28:08 +0800</pubDate>
     </item>
   </channel>
