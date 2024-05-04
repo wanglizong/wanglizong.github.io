@@ -1,23 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Prompt</title>
+    <title>Prompts</title>
     <link>https://ai.ittools.cc</link>
     <atom:link href="https://ai.ittools.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <description>记录精彩的程序人生</description>
+    <description/>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Sat, 04 May 2024 17:03:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 20:40:44 +0800</lastBuildDate>
     <language>en-us</language>
+    <item>
+      <title>`position` Interviewer</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714826298852.html</link>
+      <description>
+        <![CDATA[<p><code>I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the ......</code></p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714826298852.html</guid>
+      <category>chatgpt</category>
+      <category>example</category>
+      <category>Prompt</category>
+      <pubDate>Sat, 04 May 2024 20:38:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>English Translator and Improver</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714826057175.html</link>
+      <description>
+        <![CDATA[<p>I want you to act as an English translator, spelling corrector and improver.....</p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714826057175.html</guid>
+      <category>Prompt</category>
+      <category>example</category>
+      <category>chatgpt</category>
+      <category>English</category>
+      <pubDate>Sat, 04 May 2024 20:36:13 +0800</pubDate>
+    </item>
     <item>
       <title>How to make chatgpt act as Linux Terminal</title>
       <link>https://ai.ittools.cc/articles/2024/05/04/1714813142414.html</link>
-      <description/>
+      <description>
+        <![CDATA[<p>"I want you to act as a linux terminal",how to ask a question to chatgpt?</p>]]>
+      </description>
       <author>1810857626</author>
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714813142414.html</guid>
-      <category>chatgpt</category>
       <category>LinuxTerminal</category>
+      <category>example</category>
       <category>Prompt</category>
-      <pubDate>Sat, 04 May 2024 16:59:02 +0800</pubDate>
+      <category>chatgpt</category>
+      <pubDate>Sat, 04 May 2024 20:28:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
