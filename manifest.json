@@ -3,10 +3,10 @@
     "theme_color": "#1fb5ad",
     "background_color": "#f1f2f7",
     "display": "standalone",
-    "name": "prompts",
+    "name": "Prompt",
     "start_url": ".",
     "description": "记录精彩的程序人生",
-    "short_name": "prompts",
+    "short_name": "Prompt",
     "icons": [
         {
             "sizes": "48x48",

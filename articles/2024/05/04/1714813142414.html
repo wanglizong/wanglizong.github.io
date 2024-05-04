@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/><meta name="theme-color" content="#3b3e43"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no"/><title>How to make chatgpt act as Linux Terminal - Prompt</title><meta name="description" content="A small and beautiful blogging system. 一款小而美的博客系统。"/><meta property="og:description" content="A small and beautiful blogging system. 一款小而美的博客系统。"/>    <meta name="keywords" content="prompt,drawing prompts, prompts example ,writing prompts, midjourney prompt examples"/><link rel="dns-prefetch" href="https://ai.ittools.cc"/><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"/><link rel="preconnect" href="https://ai.ittools.cc"><link rel="icon" type="image/png" href="https://b3log.org/images/brand/solo-128.png"/><link rel="apple-touch-icon" href="https://b3log.org/images/brand/solo-128.png"><link rel="shortcut icon" type="image/x-icon" href="https://b3log.org/images/brand/solo-128.png"><meta name="copyright" content="B3log"/><meta http-equiv="Window-target" content="_top"/><meta property="og:locale" content="en_US"/><meta property="og:title" content="How to make chatgpt act as Linux Terminal - Prompt"/><meta property="og:site_name" content="Prompt"/><meta property="og:url"      content="https://ai.ittools.cc/articles/2024/05/04/1714813142414.html?"/><meta property="og:image" content="https://b3log.org/images/brand/solo-128.png"/><link rel="search" type="application/opensearchdescription+xml" title="How to make chatgpt act as Linux Terminal - Prompt" href="/opensearch.xml"><link href="https://ai.ittools.cc/rss.xml" title="RSS" type="application/rss+xml" rel="alternate"/><link rel="manifest" href="https://ai.ittools.cc/manifest.json">        <link rel="canonical" href="https://ai.ittools.cc/articles/2024/05/04/1714813142414.html">        <link rel="stylesheet"
+              href="https://ai.ittools.cc/skins/Pinghsu/css/base.css?1714809425656"/>
+    <script src="https://ai.ittools.cc/js/lib/vditor/dist/js/icons/ant.js?v=3.9.7" async="" id="vditorIconScript"></script></head>
+<body>
+<header class="header">
+    <div class="wrapper">
+        <a href="https://ai.ittools.cc" rel="start" class="header__logo">
+            <img src="https://b3logfile.com/avatar/1544749828221?imageView2/1/w/128/h/128/interlace/0/q/100" alt="Prompt"/>
+            Prompt
+        </a>
+
+        <nav class="header__nav mobile__none">
+            <a href="https://ai.ittools.cc/tags.html" rel="section">
+                Tags
+            </a>
+            <a href="https://ai.ittools.cc/archives.html">
+                Archives
+            </a>
+            <a rel="archive" href="https://ai.ittools.cc/links.html">
+                Links
+            </a>
+        </nav>
+
+        <div class="header__bar fn__none" onclick="$(this).next().slideToggle()">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+                <path fill="#444" d="M0 3h20v2h-20v-2zM0 9h20v2h-20v-2zM0 15h20v2h-20v-2z"></path>
+            </svg>
+        </div>
+        <main class="header__menu fn__none">
+            <ul>
+                <li>
+                    <a href="https://ai.ittools.cc/tags.html" rel="section">
+                        Tags
+                    </a>
+                </li>
+                <li>
+                    <a href="https://ai.ittools.cc/archives.html">
+                        Archives
+                    </a>
+                </li>
+                <li>
+                    <a rel="archive" href="https://ai.ittools.cc/links.html">
+                        Links
+                    </a>
+                </li>
+                <li>
+                    <a rel="alternate" href="https://ai.ittools.cc/rss.xml" rel="section">
+                        RSS
+                    </a>
+                </li>
+            </ul>
+        </main>
+    </div>
+</header>
+<main id="pjax" class="fn__flex-1">
+    
+    <div class="post wrapper wrapper--miner">
+        <h2 class="item__title">
+            <a rel="bookmark" href="https://ai.ittools.cc/articles/2024/05/04/1714813142414.html">
+                How to make chatgpt act as Linux Terminal
+            </a>
+        </h2>
+        <div class="ft__fade item__meta">
+                Published on
+            <time>
+                May 4, 2024
+            </time>
+            with <span data-uvstaturl="https://ai.ittools.cc/articles/2024/05/04/1714813142414.html">0</span> views
+                and <a href="#b3logsolocomments"><span data-uvstatcmt="1714813142414">0</span> comments</a>
+        </div>
+        <div class="item__tags">
+                <a rel="tag" class="tag tag--0" href="https://ai.ittools.cc/tags/chatgpt">
+                    <b># chatgpt</b>
+                </a>
+                <a rel="tag" class="tag tag--1" href="https://ai.ittools.cc/tags/Prompt">
+                    <b># Prompt</b>
+                </a>
+                <a rel="tag" class="tag tag--2" href="https://ai.ittools.cc/tags/LinuxTerminal">
+                    <b># LinuxTerminal</b>
+                </a>
+        </div>
+        <div class="vditor-reset">
+            <h1 id="toc_h1_0">Prompt</h1>
+<p>I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when i need to tell you something in english, i will do so by putting text inside curly brackets {like this}. my first command is pwd</p>
+<p><img src="https://b3logfile.com/file/2024/05/image-OjzBSwz.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="image.png"></p>
+                <div>
+                    <hr>
+
+标题：How to make chatgpt act as Linux Terminal<br>
+作者：<a href="https://ai.ittools.cc" target="_blank">1810857626</a><br>
+地址：<a href="https://ai.ittools.cc/articles/2024/05/04/1714813142414.html" target="_blank">https://ai.ittools.cc/articles/2024/05/04/1714813142414.html</a><br>
+
+<!-- 签名档内可使用 HTML、JavaScript -->
+<br>
+                </div>
+        </div>
+    </div>
+    <div class="post__toc">
+<ul class="article__toc">
+        <li class="toc__h1">
+            <a href="#toc_h1_0">Prompt</a>
+        </li>
+</ul>    </div>
+    <div class="body--gray post__gray">
+        <div class="wrapper comment">
+                <div id="gitalk-container" style="padding: 30px 0;"></div>
+                <div id="b3logsolocomments"></div>
+                <div id="vcomment" style="padding: 30px 0;" data-name="1810857626" data-postId="1714813142414"></div>
+
+            <div class="post__list fn__flex">
+                <div class="fn__flex-1">
+                    <div id="externalRelevantArticles"></div>
+                </div>
+                <div class="post__list-mid fn__flex-1">
+                    <div id="randomArticles"></div>
+                </div>
+                <div class="fn__flex-1">
+                    <div id="relevantArticles"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="post__fix">
+        <div class="wrapper">
+            <span class="post__share mobile__none">
+                Share
+                <span class="tag tag--4" data-type="weibo">WeiBo</span>
+                <span class="tag tag--5" data-type="twitter">Twitter</span>
+                <span class="tag tag--6" data-type="qqz">QZone</span>
+                <span class="post__code tag tag--7"
+                      data-type="wechat"
+                      data-title="How to make chatgpt act as Linux Terminal"
+                      data-blogtitle="Prompt"
+                      data-url="https://ai.ittools.cc/articles/2024/05/04/1714813142414.html"
+                      data-avatar="https://b3logfile.com/avatar/1544749828221?imageView2/1/w/128/h/128/interlace/0/q/100">
+                    WeChat
+                    <span class="qrcode"></span>
+                </span>
+            </span>
+            <span class="post__arrow">
+
+                <a href="javascript:Util.goTop()" class="vditor-tooltipped__n vditor-tooltipped"
+                   aria-label="Go top">↑</a>
+                <a href="javascript:Util.goBottom()" class="vditor-tooltipped__n vditor-tooltipped"
+                   aria-label="Go bottom">↓</a>
+            </span>
+        </div>
+    </div>
+    
+</main>
+<footer class="footer">
+    <div class="ft__center">
+    </div>
+    <nav class="footer__nav mobile__none">
+        <a class="ft__link" rel="alternate" href="https://ai.ittools.cc/rss.xml" rel="section">RSS</a>
+    </nav>
+    <div class="footer__border mobile__none"></div>
+    <div class="wrapper fn__flex">
+        <div class="fn__flex-1 mobile__none">
+            <div class="ft__fade">1810857626 - 记录精彩的程序人生</div>
+            <br>
+                Open Source, Open Mind, <br/>Open Sight, Open Future!
+
+<!-- 公告栏可使用 HTML、JavaScript，比如可以在此加入第三方统计 js -->
+
+  <!-- Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-VVGNY8FVJE"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-VVGNY8FVJE');
+        </script>
+        </div>
+
+
+        <div class="fn__flex-1 footer__copyright">
+            <a class="ft__link" href="https://ai.ittools.cc/archives.html">
+                1
+                Article
+            </a>
+           <br>
+            <span data-uvstaturl="https://ai.ittools.cc">0</span> <span class="ft-gray">View</span>
+ <br>
+            &copy; 2024
+            <a class="ft__link" href="https://ai.ittools.cc">Prompt</a>
+            
+        </div>
+    </div>
+</footer>
+<script>
+  var Label = {
+    speech: true,
+    servePath: "https://ai.ittools.cc",
+    staticServePath: "https://ai.ittools.cc",
+    luteAvailable: false,
+    hljsStyle: 'github',
+    langLabel: "en_US",
+    version: "4.4.0",
+    staticSite: true,
+    showCodeBlockLn: false,
+    articleId: "1714813142414",
+  }
+</script>
+<script type="text/javascript" src="https://ai.ittools.cc/skins/Pinghsu/js/headroom.min.js"></script>
+<script type="text/javascript"
+        src="https://ai.ittools.cc/skins/Pinghsu/js/common.min.js?1714809425656"
+        charset="utf-8"></script>
+
+
+
+<script type="text/javascript">
+    Util.addScript('https://ai.ittools.cc/js/page.min.js?1714809425656', 'soloPageScript')
+    var page = new Page({
+        "commentContentCannotEmptyLabel": "Comment can not be empty",
+        "oId": "1714813142414",
+        "blogHost": "https://ai.ittools.cc",
+        "randomArticles1Label": "Random Articles:",
+        "externalRelevantArticles1Label": "External Relevant Articles:"
+    });
+    $(document).ready(function () {
+        page.load();
+    page.tips.externalRelevantArticlesDisplayCount = "0";
+    page.loadRandomArticles('<h3>RECOMMEND POSTS</h3>');
+    page.loadRelevantArticles('1714813142414', '<h3>RELEVANT POSTS</h3>');
+Skin.initArticle()
+    });
+</script>
+
+</body>
+</html>
+
+<!-- Generated by Latke (https://github.com/88250/latke) in 6ms, 2024/05/04 17:03:37 -->
