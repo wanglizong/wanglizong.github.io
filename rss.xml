@@ -6,8 +6,35 @@
     <atom:link href="https://ai.ittools.cc/rss.xml" rel="self" type="application/rss+xml"/>
     <description/>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Sat, 04 May 2024 21:03:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 21:25:21 +0800</lastBuildDate>
     <language>en-us</language>
+    <item>
+      <title>Act as an Excel Sheet</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714827420816.html</link>
+      <description>
+        <![CDATA[<p>I want you to act as a text based excel. you'll only reply me the</p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714827420816.html</guid>
+      <category>example</category>
+      <category>chatgpt</category>
+      <category>Prompt</category>
+      <pubDate>Sun, 05 May 2024 21:24:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>Act as a English Pronunciation Helper</title>
+      <link>https://ai.ittools.cc/articles/2024/05/04/1714827521487.html</link>
+      <description>
+        <![CDATA[<p>I want you to act as an English pronunciation assistant for Turkish speaking people.</p>]]>
+      </description>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/04/1714827521487.html</guid>
+      <category>chatgpt</category>
+      <category>example</category>
+      <category>Prompt</category>
+      <category>English</category>
+      <pubDate>Sun, 05 May 2024 21:24:01 +0800</pubDate>
+    </item>
     <item>
       <title>AI Writing Tutor</title>
       <link>https://ai.ittools.cc/articles/2024/05/04/1714827660223.html</link>
@@ -16,13 +43,47 @@
       </description>
       <author>1810857626</author>
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714827660223.html</guid>
-      <category>writing</category>
       <category>example</category>
+      <category>writing</category>
       <category>chatgpt</category>
-      <pubDate>Sat, 04 May 2024 21:01:00 +0800</pubDate>
+      <pubDate>Sun, 05 May 2024 21:23:44 +0800</pubDate>
     </item>
     <item>
-      <title>JavaScript Console</title>
+      <title>ChatGPT SEO prompts</title>
+      <link>https://ai.ittools.cc/articles/2024/05/05/1714914122089.html</link>
+      <description/>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/05/1714914122089.html</guid>
+      <category>chatgpt</category>
+      <category>example</category>
+      <category>Prompt</category>
+      <category>seo</category>
+      <pubDate>Sun, 05 May 2024 21:23:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>Act as a Travel Guide</title>
+      <link>https://ai.ittools.cc/articles/2024/05/05/1714914789305.html</link>
+      <description/>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/05/1714914789305.html</guid>
+      <category>chatgpt</category>
+      <category>example</category>
+      <category>Prompt</category>
+      <pubDate>Sun, 05 May 2024 21:22:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>Act as an Ethereum Developer</title>
+      <link>https://ai.ittools.cc/articles/2024/05/05/1714914185116.html</link>
+      <description/>
+      <author>1810857626</author>
+      <guid>https://ai.ittools.cc/articles/2024/05/05/1714914185116.html</guid>
+      <category>chatgpt</category>
+      <category>Prompt</category>
+      <category>example</category>
+      <pubDate>Sun, 05 May 2024 21:22:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>Act as a JavaScript Console</title>
       <link>https://ai.ittools.cc/articles/2024/05/04/1714826886020.html</link>
       <description>
         <![CDATA[<p>I want you to act as a javascript console. I will type commands and you will reply with what</p>]]>
@@ -31,37 +92,10 @@
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714826886020.html</guid>
       <category>example</category>
       <category>chatgpt</category>
-      <pubDate>Sat, 04 May 2024 20:59:02 +0800</pubDate>
+      <pubDate>Sun, 05 May 2024 21:22:08 +0800</pubDate>
     </item>
     <item>
-      <title>English Pronunciation Helper</title>
-      <link>https://ai.ittools.cc/articles/2024/05/04/1714827521487.html</link>
-      <description>
-        <![CDATA[<p>I want you to act as an English pronunciation assistant for Turkish speaking people.</p>]]>
-      </description>
-      <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/04/1714827521487.html</guid>
-      <category>chatgpt</category>
-      <category>English</category>
-      <category>example</category>
-      <category>Prompt</category>
-      <pubDate>Sat, 04 May 2024 20:58:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>Excel Sheet</title>
-      <link>https://ai.ittools.cc/articles/2024/05/04/1714827420816.html</link>
-      <description>
-        <![CDATA[<p>I want you to act as a text based excel. you'll only reply me the</p>]]>
-      </description>
-      <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/04/1714827420816.html</guid>
-      <category>Prompt</category>
-      <category>chatgpt</category>
-      <category>example</category>
-      <pubDate>Sat, 04 May 2024 20:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>`position` Interviewer</title>
+      <title>Act as position Interviewer</title>
       <link>https://ai.ittools.cc/articles/2024/05/04/1714826298852.html</link>
       <description>
         <![CDATA[<p><code>I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the ......</code></p>]]>
@@ -71,35 +105,35 @@
       <category>example</category>
       <category>chatgpt</category>
       <category>Prompt</category>
-      <pubDate>Sat, 04 May 2024 20:38:53 +0800</pubDate>
+      <pubDate>Sun, 05 May 2024 21:21:51 +0800</pubDate>
     </item>
     <item>
-      <title>English Translator and Improver</title>
+      <title>Act as an English Translator and Improver</title>
       <link>https://ai.ittools.cc/articles/2024/05/04/1714826057175.html</link>
       <description>
         <![CDATA[<p>I want you to act as an English translator, spelling corrector and improver.....</p>]]>
       </description>
       <author>1810857626</author>
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714826057175.html</guid>
-      <category>example</category>
-      <category>English</category>
-      <category>Prompt</category>
       <category>chatgpt</category>
-      <pubDate>Sat, 04 May 2024 20:36:13 +0800</pubDate>
+      <category>example</category>
+      <category>Prompt</category>
+      <category>English</category>
+      <pubDate>Sun, 05 May 2024 21:21:09 +0800</pubDate>
     </item>
     <item>
-      <title>How to make chatgpt act as Linux Terminal</title>
+      <title>Act as a Linux Terminal</title>
       <link>https://ai.ittools.cc/articles/2024/05/04/1714813142414.html</link>
       <description>
         <![CDATA[<p>"I want you to act as a linux terminal",how to ask a question to chatgpt?</p>]]>
       </description>
       <author>1810857626</author>
       <guid>https://ai.ittools.cc/articles/2024/05/04/1714813142414.html</guid>
-      <category>Prompt</category>
-      <category>LinuxTerminal</category>
-      <category>chatgpt</category>
       <category>example</category>
-      <pubDate>Sat, 04 May 2024 20:28:08 +0800</pubDate>
+      <category>chatgpt</category>
+      <category>LinuxTerminal</category>
+      <category>Prompt</category>
+      <pubDate>Sun, 05 May 2024 21:20:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
