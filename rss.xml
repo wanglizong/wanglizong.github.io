@@ -6,117 +6,102 @@
     <atom:link href="https://ai.ittools.cc/rss.xml" rel="self" type="application/rss+xml"/>
     <description/>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Mon, 06 May 2024 21:51:49 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 00:02:55 +0800</lastBuildDate>
     <language>en-us</language>
     <item>
-      <title>Act as a Etymologist</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917654799.html</link>
+      <title>Act as a Fullstack Software Developer</title>
+      <link>https://ai.ittools.cc/articles/2024/05/09/1715184061421.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917654799.html</guid>
-      <category>example</category>
-      <category>chatgpt</category>
-      <category>Prompt</category>
-      <pubDate>Sun, 05 May 2024 22:00:54 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/09/1715184061421.html</guid>
+      <category>待分类</category>
+      <pubDate>Thu, 09 May 2024 00:01:01 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a Life Coach</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917621839.html</link>
+      <title>Act as a Solr Search Engine</title>
+      <link>https://ai.ittools.cc/articles/2024/05/09/1715184006018.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917621839.html</guid>
-      <category>chatgpt</category>
-      <category>Prompt</category>
-      <category>example</category>
-      <pubDate>Sun, 05 May 2024 22:00:21 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/09/1715184006018.html</guid>
+      <category>Solr</category>
+      <category>SolrSearchEngine</category>
+      <pubDate>Thu, 09 May 2024 00:00:06 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a Recruiter</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917589254.html</link>
+      <title>Act as Language Detector</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183967001.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917589254.html</guid>
-      <category>example</category>
-      <category>chatgpt</category>
-      <category>Prompt</category>
-      <pubDate>Sun, 05 May 2024 21:59:49 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183967001.html</guid>
+      <category>Detector</category>
+      <category>Language</category>
+      <pubDate>Wed, 08 May 2024 23:59:27 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a Cyber Security Specialist</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917553698.html</link>
+      <title>Act as a Salesperson</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183932060.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917553698.html</guid>
-      <category>chatgpt</category>
-      <category>example</category>
-      <category>Prompt</category>
-      <pubDate>Sun, 05 May 2024 21:59:13 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183932060.html</guid>
+      <category>Salesperson</category>
+      <pubDate>Wed, 08 May 2024 23:58:52 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a UX/UI Developer</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917515299.html</link>
+      <title> Act as a Commit Message Generator</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183906213.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917515299.html</guid>
-      <category>example</category>
-      <category>chatgpt</category>
-      <category>Prompt</category>
-      <pubDate>Sun, 05 May 2024 21:58:35 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183906213.html</guid>
+      <category>Generator</category>
+      <category>Message</category>
+      <pubDate>Wed, 08 May 2024 23:58:26 +0800</pubDate>
     </item>
     <item>
-      <title>Act as an AI Writing Tutor</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917476262.html</link>
+      <title>Act as a Chief Executive Officer</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183864715.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917476262.html</guid>
-      <category>Prompt</category>
-      <category>chatgpt</category>
-      <category>example</category>
-      <pubDate>Sun, 05 May 2024 21:57:56 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183864715.html</guid>
+      <category>待分类</category>
+      <pubDate>Wed, 08 May 2024 23:57:44 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a Math Teacher</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917432383.html</link>
+      <title>Act as a Diagram Generator</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183811628.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917432383.html</guid>
-      <category>chatgpt</category>
-      <category>example</category>
-      <category>Prompt</category>
-      <pubDate>Sun, 05 May 2024 21:57:12 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183811628.html</guid>
+      <category>Diagram</category>
+      <category>Generator</category>
+      <pubDate>Wed, 08 May 2024 23:56:51 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a Philosopher</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917400060.html</link>
+      <title>Act as a Speech-Language Pathologist (SLP)</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183725574.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917400060.html</guid>
-      <category>chatgpt</category>
-      <category>Prompt</category>
-      <category>example</category>
-      <pubDate>Sun, 05 May 2024 21:56:40 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183725574.html</guid>
+      <category>Language</category>
+      <pubDate>Wed, 08 May 2024 23:55:25 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a Philosophy Teacher</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917361947.html</link>
+      <title>Act as a Startup Tech Lawyer</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183683505.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917361947.html</guid>
-      <category>chatgpt</category>
-      <category>example</category>
-      <category>Prompt</category>
-      <pubDate>Sun, 05 May 2024 21:56:01 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183683505.html</guid>
+      <category>Lawyer</category>
+      <pubDate>Wed, 08 May 2024 23:54:43 +0800</pubDate>
     </item>
     <item>
-      <title>Act as a Motivational Speaker</title>
-      <link>https://ai.ittools.cc/articles/2024/05/05/1714917321044.html</link>
+      <title>Act as a Title Generator for written pieces</title>
+      <link>https://ai.ittools.cc/articles/2024/05/08/1715183655251.html</link>
       <description/>
       <author>1810857626</author>
-      <guid>https://ai.ittools.cc/articles/2024/05/05/1714917321044.html</guid>
-      <category>example</category>
-      <category>Prompt</category>
-      <category>chatgpt</category>
-      <pubDate>Sun, 05 May 2024 21:55:21 +0800</pubDate>
+      <guid>https://ai.ittools.cc/articles/2024/05/08/1715183655251.html</guid>
+      <category>Generator</category>
+      <category>writing</category>
+      <pubDate>Wed, 08 May 2024 23:54:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
